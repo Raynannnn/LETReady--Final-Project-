@@ -17,11 +17,8 @@ LETReady is created to help students efficiently prepare for the LET exam by con
 * Centralized repository of LET reviewers.
 * Updated and organized study materials.
 * User-friendly interface for easy navigation.
-  *(Note: Add more specific features here if you have them, e.g., quizzes, search, categorization, progress tracking.)*
 
 ## Technology Stack
-
-*(Based on your implementation — adjust if needed)*
 
 * Frontend: HTML, CSS, JavaScript
 * Backend: *(Optional if applicable)*
@@ -32,7 +29,6 @@ LETReady is created to help students efficiently prepare for the LET exam by con
 1. Download or clone the repository.
 2. Open `index.html` in your preferred browser.
 3. Navigate through the platform to access LET reviewers.
-   *(Add setup instructions if there’s a server, database, or framework involved.)*
 
 ## Team
 3rd Yr students from TUPM, a project for thesis.
